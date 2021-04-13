@@ -16,7 +16,7 @@ Two pairs of Ompton NPN NO were adopted as photoelectric switchs. The launchs ar
 3.Serial communication。  
 ## Next week's schedule
 Finish the program and test of the code.  
-## appendix
+## Appendix
 ### WiFi module
 ![](https://github.com/Palsival/TransducerCourseDesign/blob/Image/WiFiModule.jpg)
 ### The circuit
