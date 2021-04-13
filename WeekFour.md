@@ -1,12 +1,12 @@
-# 第四周进度总结
-## 项目进度情况
-查阅相关资料，大致了解有关电路的设计环节，明确了火车地面测速的基本器件组成以及实现功能的基本方法。目前正处于电路的设计和串口通信模块选择的环节。
-## 已有解决方案的问题
-（1）实现光电开关的原理电路（采用发光二极管和光电三极管耦合电路）  
+# Progress summary of week 4  
+## Progress  
+We've referred to some relevant informations. Now have a fair idea of how the design of circuit will go. Meanwhile, we've figured out the components we might need to realize the function of speed measurement. Now we are at the stage of basic circuit designment and the selection of communication module.   
+## Problems solved  
+(1) Schematic diagram of photoelectric switch (Launch and receiver)   
 ![](https://github.com/Palsival/TransducerCourseDesign/blob/Image/Basic.jpg)  
-（2）采用两对分体式光电对射开关满足测速要求（v=s/t)  
-（3）可采用三对光电对射开关实现加速度测量的拓展  
-## 待解决的问题
-（1）单片机的选择  
-（2）测速的精度误差和范围的满足  
-（3）蓝牙模块/WiFi模块串口通信的实现  
+(2) Using two pairs of  photoelectric switchs to fulfill the function of speed measurement.(v=s/t)  
+(3) By introducing another pair of photoelectric switch, we may cover the measurement of acceleration.  
+## Problem to solve
+(1) Selection of singlechip.  
+(2) Accuracy and range of the speed measurement.  
+(3) The realization of serial communication with Blue-tooth or WiFi module.  
