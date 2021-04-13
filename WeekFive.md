@@ -1,4 +1,4 @@
-# Progress summary of week 5
+# Summary of week 5
 ## Progress
 Combining the informations that we gathered on week 3 and 4, we settled the selection of singlechip and designment of basic circuit.  
 ## Problems solved
