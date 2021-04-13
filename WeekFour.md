@@ -1,4 +1,4 @@
-# Progress summary of week 4  
+# Summary of week 4  
 ## Progress  
 We've referred to some relevant informations. Now have a fair idea of how the design of circuit will go. Meanwhile, we've figured out the components we might need to realize the function of speed measurement. Now we are at the stage of basic circuit designment and the selection of communication module.   
 ## Problems solved  
